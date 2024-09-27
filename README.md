@@ -6,7 +6,6 @@ Upskill Academy is responsive full stack courses selling web app built majorly u
 - [Admin Dashboard](#admin-dashboard)
 - [User Dashboard](#user-dashboard)
 - [Tech Stack Used](#tech-stack-used)
-- [Hosting WebApp Locally - YouTube Video](#hosting-webapp-locally-youtube-video)
 - [Hosting WebApp Locally](#hosting-webapp-locally)
 
 
