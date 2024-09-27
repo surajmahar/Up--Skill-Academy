@@ -47,23 +47,9 @@ Mongoose -  MongoDB ODM (Object Database Modelling)
 
 JWT - Javascript Web Tokens
 
-## Hosting WebApp Locally - YouTube Video
-
-[Watch the video here](https://www.youtube.com/watch?v=WInXKw-CY5I)
-
 ## Hosting WebApp Locally
 
 Install NodeJS and NPM before proceeding further.
-
-
-- Clone your repository.
-  ```sh
-  git clone https://github.com/sriram2k4/UpskillAcademy.git
-   ```
-- Change directory to cloned repo.
-    ```sh
-   cd UpskillAcademy
-   ```
 
 ### Server Setup
 
