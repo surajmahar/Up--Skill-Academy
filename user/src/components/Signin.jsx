@@ -4,7 +4,7 @@ import Typography from "@mui/material/Typography";
 import TextField from "@mui/material/TextField";
 import Button from "@mui/material/Button";
 import Grid from "@mui/material/Grid";
-import Appbar from "./Appbar.jsx";
+import Appbar from "./AppBar.jsx";
 import {useNavigate} from "react-router-dom";
 import {useSetRecoilState} from "recoil";
 import {userState} from "../store/atoms/user.js";
