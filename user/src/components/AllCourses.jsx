@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react';
 import axios from "axios";
 import CourseCard from "./CourseCard.jsx";
-import Appbar from "./Appbar.jsx";
+import Appbar from "./AppBar.jsx";
 import Grid from "@mui/material/Grid";
 import Typography from "@mui/material/Typography";
 import {useRecoilValue} from "recoil";
